@@ -292,7 +292,7 @@ Some files are test or alternate implementations (for example, `main_test.c`, `u
 
 ## Author
 
-**Nithya Bodige**  
+**Pilli Kishore Raja**  
 Embedded Systems / Firmware
 
 ---
